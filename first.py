@@ -1,4 +1,4 @@
 print("hello! this is my first line")
-x=2
-x=x+2
+x=20
+x=x+20
 print(x)
